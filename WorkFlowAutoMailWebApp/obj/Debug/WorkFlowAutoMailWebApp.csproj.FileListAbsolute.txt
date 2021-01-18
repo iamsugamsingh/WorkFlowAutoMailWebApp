@@ -1,0 +1,16 @@
+D:\Complete Softwares\JobCardPrintedStatusAutoMail\JobCardPrintedStatusAutoMail\bin\JobCardPrintedStatusAutoMail.dll
+D:\Complete Softwares\JobCardPrintedStatusAutoMail\JobCardPrintedStatusAutoMail\bin\JobCardPrintedStatusAutoMail.pdb
+D:\Complete Softwares\JobCardPrintedStatusAutoMail\JobCardPrintedStatusAutoMail\bin\Aws.dll
+D:\Complete Softwares\JobCardPrintedStatusAutoMail\JobCardPrintedStatusAutoMail\bin\Spire.Barcode.dll
+D:\Complete Softwares\JobCardPrintedStatusAutoMail\JobCardPrintedStatusAutoMail\bin\Aws.pdb
+D:\Complete Softwares\JobCardPrintedStatusAutoMail\JobCardPrintedStatusAutoMail\obj\Debug\WorkFlowAutoMailWebApp.csprojResolveAssemblyReference.cache
+D:\Complete Softwares\JobCardPrintedStatusAutoMail\JobCardPrintedStatusAutoMail\obj\Debug\JobCardPrintedStatusAutoMail.dll
+D:\Complete Softwares\JobCardPrintedStatusAutoMail\JobCardPrintedStatusAutoMail\obj\Debug\JobCardPrintedStatusAutoMail.pdb
+D:\Complete Softwares\WorkFlowAutoMailWebApp\WorkFlowAutoMailWebApp\bin\JobCardPrintedStatusAutoMail.dll
+D:\Complete Softwares\WorkFlowAutoMailWebApp\WorkFlowAutoMailWebApp\bin\JobCardPrintedStatusAutoMail.pdb
+D:\Complete Softwares\WorkFlowAutoMailWebApp\WorkFlowAutoMailWebApp\bin\Aws.dll
+D:\Complete Softwares\WorkFlowAutoMailWebApp\WorkFlowAutoMailWebApp\bin\Spire.Barcode.dll
+D:\Complete Softwares\WorkFlowAutoMailWebApp\WorkFlowAutoMailWebApp\bin\Aws.pdb
+D:\Complete Softwares\WorkFlowAutoMailWebApp\WorkFlowAutoMailWebApp\obj\Debug\WorkFlowAutoMailWebApp.csprojResolveAssemblyReference.cache
+D:\Complete Softwares\WorkFlowAutoMailWebApp\WorkFlowAutoMailWebApp\obj\Debug\JobCardPrintedStatusAutoMail.dll
+D:\Complete Softwares\WorkFlowAutoMailWebApp\WorkFlowAutoMailWebApp\obj\Debug\JobCardPrintedStatusAutoMail.pdb
